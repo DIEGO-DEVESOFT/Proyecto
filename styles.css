@@ -1,0 +1,105 @@
+/* ESTOS SON CSS ESTILOS DE LAS PÁGINAS WEB QUE SON LOS COLORES, ADAPTABILIDAD, TAMAÑO, POSICIÓN ENTRE OTRAS */
+
+/* PARA QUITAR ESPACIOS */
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+/* COLOR DE FONDO DE LA PAGINA */
+
+.body{
+    background: rgb(238, 172, 234);
+}
+
+/* COLOR DE H1 */
+
+div h1{
+    background: rgb(152, 3, 166);
+    color: white;
+    text-align: center;
+}
+
+
+/* ESTILOS DE LA IMAGEN*/
+
+img{
+    height: auto;
+    width: auto;
+}
+
+/* PARA COLOCAR UN BORDE */
+
+.borde{
+    border: 2px black solid;
+}
+
+/*CAJA DONDE SALE LA IMAGEN */
+
+.caja1{
+
+    width: 20%;
+    height: 250px;
+    background: rgb(235, 117, 229);
+    
+
+}
+
+/*CAJA DONDE SALE LOS DATOS */
+
+.caja2{
+
+    width: 80%;
+    height: 250px;
+    background: rgb(212, 0, 255);  
+    
+
+}
+
+/* EL CARD DONDE ESTAN LAS ACTIVIDADES */
+
+.card1{
+    background: rgb(152, 3, 193);
+    color: white;
+    padding: 10px;
+
+}
+
+.card2{
+    background: rgb(226, 107, 253);
+}
+
+/* PARA QUE SEA FLEXIBLES LAS CAJAS */
+
+.display{
+    display: flex;
+}
+
+/* PIE DE PAGINA */
+
+footer{
+    text-align: center;
+    color: white;
+}
+
+/* PARA CENTRAR TEXTOS */
+
+.textoCenter{
+    text-align: center;
+}
+
+/* ESTILOS DE LAS IMAGENES DE TAREA 1 */
+
+.imagentarea2{
+    padding: 60px;
+
+}
+
+
+
+
+
+
+
+
